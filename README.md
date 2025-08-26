@@ -1,6 +1,6 @@
 # 👋 Hey, I am Vishakha Chudasama  
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=550&lines=Hey%2C+I+am+Vishakha+Chudasama;I+am+a+Full-Stack+IT+Engineer+(UG)+%26+Web+Developer;MERN+%7C+Flask+%7C+PHP+%7C+Canva+Designer">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=06B6D&center=true&vCenter=true&width=550&lines=Hey%2C+I+am+Vishakha+Chudasama;I+am+a+Full-Stack+IT+Engineer+(UG)+%26+Web+Developer;MERN+%7C+Flask+%7C+PHP+%7C+Canva+Designer">
 </h3>
 
 ---
@@ -24,12 +24,12 @@ While I aim to perform well in exams, my primary focus is on **AI research, real
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishakha-chudasama&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakha-chudasama&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
-
+-->
 ---
 
 ## 🌐 Portfolio
