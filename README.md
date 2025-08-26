@@ -1,16 +1,12 @@
 <!-- Profile README for Vishakha Chudasama -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishakha-Chudasama&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=06B6D4&center=true&vCenter=true&lines=Hey%2C+I'm+Vishakha+Chudasama;I+am+a+Full-Stack+IT+Engineer+(UG)+%26+Web+Developer" alt="Typing Animation"/>
 </p>
 
-<h2 align="center">💻 I am a Full-Stack IT Engineer (UG) & Web Developer</h2>
-
-<h1 align="center">Hi 👋, I'm Vishakha Chudasama</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=06B6D4&center=true&vCenter=true&lines=IT+Undergraduate+%40+VGEC+Chandkheda;MERN+Stack+Developer;Flask+%7C+PHP+Developer;Full+Stack+Web+Engineer" alt="Typing Animation"/>
-</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vishakha-Chudasama&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
