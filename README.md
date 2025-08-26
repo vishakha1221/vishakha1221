@@ -1,7 +1,8 @@
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=06B6D&center=true&vCenter=true&width=550&lines=Hey%2C+I+am+Vishakha+Chudasama;I+am+a+Full-Stack+IT+Engineer+(UG)+%26+Web+Developer;MERN+%7C+Flask+%7C+PHP+%7C+Canva+Designer">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=06B6D4&center=true&vCenter=true&width=700&lines=Hey%2C+I+am+Vishakha+Chudasama;I+am+a+Full-Stack+IT+Engineer+(UG)+%26+Web+Developer;MERN+%7C+PHP+%7C+Canva+Designer" alt="Typing Animation"/>
 </h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vishakha-Chudasama&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
