@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 About Me  
-🎓 I’m a **5th-semester undergraduate student in Information Technology Engineering** at **Vishwakarma Government Engineering College (VGEC), Chandkheda – GTU**.  
+🎓 I’m a **5th-semester undergraduate student in Information Technology** at **Vishwakarma Government Engineering College (VGEC), Chandkheda – GTU**.  
 💡 Passionate about **Full-Stack Development**, problem-solving, and building **scalable, real-world applications**.  
 🚀 Internship experience at **InfiniteAI Pvt. Ltd., Rajkot**, where I worked on **MERN stack development**.  
 ✨ I enjoy combining creativity with code — and yes, I also design with **Canva**!  
