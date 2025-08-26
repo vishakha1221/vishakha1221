@@ -44,9 +44,9 @@
 
 ## 🚀 Highlight Projects  
 
-🔗 **GlobeTwitter**  
-- A **social media web app** built using MERN stack  
-- Features: global tweet sharing, likes, comments, and modern UI  
+🔗 **GlobeTrotter**  
+- A **social media web app** built using **Flask & Tailwind csd & SQLlite** 
+- Collaborative platform that transforms the way individuals plan and experience travel 
 
 🔗 **SkillVerse**  
 - Authentication system with **Flask-WTF & Tailwind CSS**  
