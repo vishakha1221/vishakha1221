@@ -27,6 +27,11 @@
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
 
+**Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)  
+
 **Development Tools & Frameworks**  
 ![MERN](https://img.shields.io/badge/MERN-20232A?logo=mongodb&logoColor=47A248)  
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
@@ -34,7 +39,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)  
 
@@ -73,8 +77,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishakha-Chudasama&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishakha-Chudasama&theme=radical" alt="GitHub Streak" height="150"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishakha-Chudasama&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishakha-Chudasama&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>  
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishakha-Chudasama&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>  
 </p>  
 
 ---
