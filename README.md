@@ -1,7 +1,7 @@
 <!-- Profile README for Vishakha Chudasama -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=06B6D4&center=true&vCenter=true&lines=Hey%2C+I'm+Vishakha+Chudasama;I+am+a+ Full-Stack+IT+Engineer+(UG)+%26+Web+Developer" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=06B6D4&center=true&vCenter=true&lines=Hey%2C+I'm+Vishakha+Chudasama;I+am+a+Full-Stack+IT+Engineer+(UG)+%26+Web+Developer" alt="Typing Animation"/>
 </p>
 
 <p align="center">
