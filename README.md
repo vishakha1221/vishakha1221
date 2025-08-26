@@ -8,9 +8,11 @@
 
 ---
 
-## 📖 About Me
-I'm a 5th-semester undergraduate student pursuing Artificial Intelligence and Data Science at **GEC Rajkot, GTU**.  
-While I aim to perform well in exams, my primary focus is on **AI research, real-world applications of machine learning, full-stack development, and problem-solving.**
+## 🌟 About Me  
+🎓 I’m a **5th-semester undergraduate student in Information Technology Engineering** at **Vishwakarma Government Engineering College (VGEC), Chandkheda – GTU**.  
+💡 Passionate about **Full-Stack Development**, problem-solving, and building **scalable, real-world applications**.  
+🚀 Internship experience at **InfiniteAI Pvt. Ltd., Rajkot**, where I worked on **MERN stack development**.  
+✨ I enjoy combining creativity with code — and yes, I also design with **Canva**!  
 
 ---
 ## 🛠️ Skills & Technologies  
